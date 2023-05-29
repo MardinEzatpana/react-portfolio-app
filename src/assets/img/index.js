@@ -11,6 +11,7 @@ import colorSharp2 from "./color-sharp2.png";
 import projImg1 from "./project-img1.png";
 import projImg2 from "./project-img2.png";
 import projImg3 from "./project-img3.png";
+import contactImg from "./contact-img.svg";
 
 
 export {
@@ -26,5 +27,6 @@ export {
     colorSharp2,
     projImg1,
     projImg2,
-    projImg3
+    projImg3,
+    contactImg
 }
